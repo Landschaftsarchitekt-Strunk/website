@@ -1,0 +1,6 @@
+[submodule "content"]
+	path = content
+	url = ../website-content.git
+[submodule "themes/LarS"]
+	path = themes/LarS
+	url = ../website-theme.git
