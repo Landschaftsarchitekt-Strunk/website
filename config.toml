@@ -1,3 +1,8 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://buero-lars.de/"
+languageCode = "de-de"
+title = "Büro LarS - Landschaftsarchitektur Strunk"
+theme = "LarS"
+
+[params]
+  description = "Ihr Planungsbüro für Umweltmanagement und Freiraumplanung"
+  themeColor = "theme-base-0b"
